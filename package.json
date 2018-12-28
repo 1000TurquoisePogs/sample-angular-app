@@ -1,0 +1,21 @@
+{
+  "name": "zowe-sample-angular-app",
+  "version": "1.0.0",
+  "description": "Simple Zowe App using Angular",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zowe/sample-angular-app.git"
+  },
+  "author": "",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/zowe/sample-angular-app/issues"
+  },
+  "homepage": "https://github.com/zowe/sample-angular-app#readme",
+  "dependencies": {
+    "zlux-app-manager": "git+ssh://git@github.com:1000TurqoisePogs/zlux-app-manager.git#feature\/test-npm-deps"
+  }
+}
